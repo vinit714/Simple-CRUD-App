@@ -1,10 +1,10 @@
 # CRUD API Tutorial – Node, Express, MongoDB
 
-This tutorial covers the development of a CRUD (Create, Read, Update, Delete) API using Node.js, Express, and MongoDB. Below is a breakdown of the tutorial along with the associated code snippets.
+This project covers the development of a CRUD (Create, Read, Update, Delete) API using Node.js, Express, and MongoDB. Below is a breakdown of the tutorial along with the associated code snippets.
 
 ## Overview
 
-The tutorial introduces the prerequisites for building a CRUD API with Node.js, Express, and MongoDB. It covers setting up the development environment, including installing Visual Studio Code and Node.js, creating a project folder, and initializing a `package.json` file.
+The project introduces the prerequisites for building a CRUD API with Node.js, Express, and MongoDB. It covers setting up the development environment, including installing Visual Studio Code and Node.js, creating a project folder, and initializing a `package.json` file.
 
 ## Setup
 
